@@ -3,4 +3,4 @@
       first_name,
       last_name
 
-  from jaffle_shop.customers
+  from raw_customers
